@@ -10,7 +10,7 @@ color: white;
 const Announcement = () => {
   return (
     <Container>
-     Super Deal! free Shipping on oreder $50
+     Super Deal! free Shipping on oreder $100
     </Container>
   )
 }
